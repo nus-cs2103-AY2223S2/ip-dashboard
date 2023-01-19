@@ -1,1 +1,1 @@
-[]
+[{"path":"src/main/java/Line.java","fileType":"java","lines":[{"lineNumber":1,"author":{"gitId":"cmang12"},"content":"package PACKAGE_NAME;public class Line {","lastModifiedDate":"2023-01-18"},{"lineNumber":2,"author":{"gitId":"cmang12"},"content":"}","lastModifiedDate":"2023-01-18"}],"authorContributionMap":{"cmang12":2}}]
